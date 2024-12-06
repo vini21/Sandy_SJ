@@ -94,7 +94,7 @@ try:
 except assertionError as e:
   print(e)
 
-n=10
+n=101
 a=2
 n*a+n*(n-1)
 
